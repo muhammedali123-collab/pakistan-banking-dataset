@@ -1,35 +1,19 @@
-# Pakistan Banking Dataset
+# Pakistan Banking Dataset Analysis
 
-This dataset contains 6000 customer records from major Pakistani banks including HBL, UBL, Meezan Bank, Allied Bank, and Bank Alfalah. It is designed for academic and machine learning purposes.
+This project contains analysis of a Pakistan banking dataset using Google Colab.
 
-## Dataset Features
-- Customer_ID
-- Age
-- Gender
-- City (Karachi, Lahore, Islamabad, etc.)
-- Bank_Name
-- Account_Balance_PKR
-- Loan_Status
-- Credit_Score
-- Account_Type (Savings/Current)
-- Churn (0 = No, 1 = Yes)
+## 📊 Files
+- pakistan_banking_dataset.csv
+- banking_analysis.ipynb
 
-## Purpose
-This dataset is useful for:
-- Machine Learning (Classification & Prediction)
-- Data Analysis
-- Banking Sector Research
-- Academic Projects
+## ⚙️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
 
-## Context
-Due to the unavailability of publicly accessible Pakistani banking datasets, this dataset has been generated to simulate real-world banking data for educational use.
+## 🎯 Objective
+To analyze customer data and perform churn prediction.
 
-## Possible Use Cases
-- Customer Churn Prediction
-- Credit Risk Analysis
-- Customer Segmentation
-- Financial Insights
-
-## Author
-Muhammed Ali J. Siddiqui  
-Iqra University
+## 👨‍🎓 Author
+Your Name - Muhammed Ali
