@@ -16,4 +16,4 @@ This project contains analysis of a Pakistan banking dataset using Google Colab.
 To analyze customer data and perform churn prediction.
 
 ## 👨‍🎓 Author
-Your Name - Muhammed Ali
+Muhammed Ali
