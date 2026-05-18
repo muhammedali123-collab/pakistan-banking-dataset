@@ -15,5 +15,8 @@ This project contains analysis of a Pakistan banking dataset using Google Colab.
 ## 🎯 Objective
 To analyze customer data and perform churn prediction.
 
+📄 Research Paper
+This repository also contains a research paper related to the Pakistan Banking Analyt
+
 ## 👨‍🎓 Author
 Muhammed Ali
